@@ -1,0 +1,64 @@
+.footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-purple {
+    color: #8b44d9;
+  }
+  
+  .logo-orange {
+    color: #ff6d00;
+  }
+  
+  .created-with {
+    text-align: center;
+    margin: 0;
+  }
+  
+  .heart {
+    color: #ff6d00;
+    margin-left: 5px;
+  }
+  
+  .social {
+    text-align: right;
+  }
+  
+  .join-us {
+    margin: 0 0 10px 0;
+    color: #ff6d00;
+  }
+  
+  .social-icons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .icon {
+    width: 40px;
+    height: 40px;
+    background-color: #8b44d9;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .icon img {
+    width: 20px;
+    height: 20px;
+  }
